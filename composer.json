@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": ">=5.6",
-        "embarknow/persistence-repository": "^1.0",
-        "embarknow/persistence-gateway": "^1.0"
+        "embarknow/persistence-repository": "~1.0",
+        "embarknow/persistence-gateway": "~1.0"
     }
 }
