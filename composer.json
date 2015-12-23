@@ -1,0 +1,23 @@
+{
+    "name": "embarknow/persistence",
+    "description": "Collection of Persistence patterns",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John Porter",
+            "email": "john@embarknow.co.uk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git://github.com/embarknow/persistence"
+        }
+    ],
+    "require": {
+        "php": ">=5.6",
+        "embarknow/persistence-repository": "^1.0",
+        "embarknow/persistence-gateway": "^1.0"
+    }
+}
